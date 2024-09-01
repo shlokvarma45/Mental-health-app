@@ -1,9 +1,9 @@
-// Import the functions you need from the SDKs you need
+
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";  // Import Firestore functions
 
-// Your web app's Firebase configuration
+
 const firebaseConfig = {
   apiKey: "AIzaSyA3rGQ8kcVZ7toq_ph5n-6Qae-MzTo68BE",
   authDomain: "mental-health-check-in-f3c38.firebaseapp.com",
